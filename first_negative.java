@@ -52,3 +52,6 @@ public class first_negative {
         }
     }
 }
+// git remote add origin https://github.com/Nehakanki/sliding_window.git
+// git branch -M main
+// git push -u origin main
